@@ -13,7 +13,7 @@ The popularity of social media has created problems such as hate speech and sexi
 If you find this [article](http://ceur-ws.org/Vol-2943/exist_paper2.pdf) or the [code](https://github.com/AngelFelipeMP/BERT-tweets-sexims-classification) useful in your research, please cite us as:
 
 ```
-@inproceedings{gonzalo2021iberlef,
+@article{gonzalo2021iberlef,
   title={Sexism Prediction in Spanish and English Tweets Using Monolingual and Multilingual BERT and Ensemble Models},
   author={de Paula, Angel Felipe Magnoss{\~a}o and da Silva, Roberto Fray and Schlicht, Ipek Baris},
   booktitle={Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2021) co-located with the Conference of the Spanish Society for Natural Language Processing (SEPLN 2021), XXXVII International Conference of the Spanish Society for Natural Language Processing., M{\'a}laga, Spain},
