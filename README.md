@@ -36,7 +36,7 @@ If you find this [article](http://ceur-ws.org/Vol-2943/exist_paper2.pdf) or the 
 # Credits
 EXIST 2021 shared Task Organizers
 
-EXIST 2021 proceedings: http://ceur-ws.org/Vol-2943/exist_paper2.pdf
+EXIST 2021 proceedings: http://ceur-ws.org/Vol-2943/
 
 Task website: http://nlp.uned.es/exist2021/
 
