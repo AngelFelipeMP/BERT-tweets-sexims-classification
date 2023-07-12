@@ -15,23 +15,13 @@ If you find this [article](http://ceur-ws.org/Vol-2943/exist_paper2.pdf) or the 
 ```
 @article{depaula2021exist,
   title={Sexism Prediction in Spanish and English Tweets Using Monolingual and Multilingual BERT and Ensemble Models},
-  author={de Paula, Angel Felipe Magnoss{\~a}o and da Silva, Roberto Fray and Schlicht, Ipek Baris},
+  author={Magnoss{\~a}o de Paula, Angel Felipe and da Silva, Roberto Fray and Schlicht, Ipek Baris},
   booktitle={Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2021) co-located with the Conference of the Spanish Society for Natural Language Processing (SEPLN 2021), XXXVII International Conference of the Spanish Society for Natural Language Processing., M{\'a}laga, Spain},
   volume={2943},
   pages={356-373},
   year={2021}
   }
 ```
-
-```
-@article{depaula2021existarxiv,
-  title={Sexism Prediction in Spanish and English Tweets Using Monolingual and Multilingual BERT and Ensemble Models},
-  author={de Paula, Angel Felipe Magnoss{\~a}o and da Silva, Roberto Fray and Schlicht, Ipek Baris},
-  journal={arXiv preprint arXiv:2111.04551},
-  year={2021}
-}
-```
-
 
 # Credits
 EXIST 2021 shared Task Organizers
